@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pomodaptive/static/css/main.f855e6bc.css",
+    "main.js": "/pomodaptive/static/js/main.f7525bc4.js",
+    "static/js/649.1d3c9903.chunk.js": "/pomodaptive/static/js/649.1d3c9903.chunk.js",
+    "static/js/453.5426320e.chunk.js": "/pomodaptive/static/js/453.5426320e.chunk.js",
+    "index.html": "/pomodaptive/index.html",
+    "main.f855e6bc.css.map": "/pomodaptive/static/css/main.f855e6bc.css.map",
+    "main.f7525bc4.js.map": "/pomodaptive/static/js/main.f7525bc4.js.map",
+    "649.1d3c9903.chunk.js.map": "/pomodaptive/static/js/649.1d3c9903.chunk.js.map",
+    "453.5426320e.chunk.js.map": "/pomodaptive/static/js/453.5426320e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f7525bc4.js"
+  ]
+}

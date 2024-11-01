@@ -1,0 +1,2 @@
+(()=>{let e,s=0;onmessage=a=>{switch(a.data){case"start":e||(e=setInterval((()=>{s+=1e3,postMessage(s)}),1e3));break;case"reset":s=0,postMessage(s);break;case"stop":clearInterval(e),e=null;break;default:console.log("web worker received unknown message")}}})();
+//# sourceMappingURL=649.1d3c9903.chunk.js.map
